@@ -1,0 +1,5 @@
+{
+  "name": "Kids Photo Session Generator",
+  "description": "Generate professional, themed photo sessions for children by uploading a photo and selecting a style. The app uses AI to create multiple high-quality, ultra-realistic images while preserving the child's unique facial features.",
+  "requestFramePermissions": []
+}
